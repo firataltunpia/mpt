@@ -7,13 +7,6 @@ The MPT is an adaptive test of mistuning perception abilities.
 
 We invite you to try the MPT [here!](http://shiny.pmcharrison.com/mpt-demo)
 
-Want to use this test in your own online study, but don't want to go to the trouble of setting up your own 
-web server? You are invited to host your study on the DOTS testing server of the 
-[German Society for Music Psychology (DGM)](https://en.musikpsychologie.de/index.html).
-This service is free of charge, but requires a current membership of the GDM, which currently
-costs 45 euros per year (22 euros for students and the unemployed).
-For more information please contact Klaus Frieler (kgf@omniversum.de).
-
 ## Citation
 
 The MPT is introduced in the following paper:
@@ -50,6 +43,7 @@ into new languages:
 - Cecilie Møller and Niels Christian-Hansen (Danish)
 - Jochum van 't Hooft (Dutch)
 - Elvira Brattico (Italian)
+- Firat Altun (Turkish)
 
 ## Installation instructions (local use)
 
