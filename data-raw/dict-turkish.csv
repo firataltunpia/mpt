@@ -1,0 +1,26 @@
+﻿ID,TR
+AMPT_0001_I_0001_1,"Bu test dinleyeceğiniz müzik örneklerindeki detonasyonlari farkedebilme becerinizi ölçmektedir.\\Sizlere bu eserler ilk başta dinletilecektir.\\Dinleyeceğiniz bazi
+ müzik parçalarinda vokal ve eşlik eden müzik **ayni tonda(Uyumlu/entone)** , bazilarinda ise vokal ve eşlik eden müzik **detone(Uyumsuz/ayni tonda olmayan)** olacaktir.\\ Sizin göreviniz ise vokalin **detone(Uyumsuz/ayni tonda olmayan)** olup olmadiğina karar vermektir.\\ Bunun bir örneğini duymak için lütfen devam et tuşuna basiniz. "
+AMPT_0002_I_0001_1,**Örnek - Entone(uyumlu)**\\\\Bu örnekte vokal ve eşlik eden müziğin entone yani uyumlu ve dolayisiyla ayni tonda olduğunu duymaktasiniz.
+AMPT_0003_I_0001_1,**Örnek - Detone(uyumsuz)**\\\\Bu örnekte vokal ve eşlik eden müziğin detone(uyumsuz) olduğunu dolayisiyla arka planda çalan müzik ile vokalin ayni tonda olmadiğini duymaktasiniz.
+AMPT_0004_I_0001_1,"Bu detone(uyumsuz) duyum algisi testinin genelinde ard arda olmak kaydiyla ayni müzik parçasinin iki farkli versiyonunu dinleyeceksiniz.\\Dinleyeceğiniz bu iki versiyondan biri duyumsal olarak **detone(uyumsuz)** diğeri ise **entone(uyumlu)** olacaktir.\\Sizin bu testteki temel göreviniz ise hangi versitonun **detone(uyumsuz)** olduğunu bulmaktir.\\Test mantiğini daha iyi anlamak ve birkaç örnek test etmek için 'devam et' sekmesine tiklayiniz."
+AMPT_0005_I_0001_1,**Örnek 1/2**\\\\Hangi versiyon **detone(uyumsuz)**? 
+AMPT_0005_R_0001_1,Birincisi
+AMPT_0005_R_0002_1,İkincisi
+AMPT_0006_I_0001_1,**Doğru Değil!**
+AMPT_0007_I_0001_1,**Doğru!**
+AMPT_0008_I_0001_1,**Örnek 2/2**\\\\Hangi versiyon **detone(uyumsuz)**? 
+AMPT_0009_I_0001_1,**Doğru!**
+AMPT_0010_I_0001_1,"Şimdi istersen eğer ""geri dön"" tuşuna basarak örnek uygulamalari tekrar edebilir, ya da  ""devam et""tuşuna basarak ana teste geçebilirsin. "
+AMPT_0011_I_0001_1,"**Sonuçlarinizin kayit edileceği ana teste başlamak üzeresiniz.**\\iyi şanslar!"
+AMPT_0012_I_0001_1,Soru {{num_question}} . {{test_length}}
+AMPT_0013_I_0001_1,"Hangi versiyon detone(uyumsuz) idi? \\Eğer karar veremezseniz, lütfen olabileceğini düşündüğünüz örneği seçiniz! "
+AMPT_0014_I_0001_1,"detonasyon farkindalik testini bitirdiniz!\\skorunuz katilimcilarin genel popülasyona orani şeklinde, aşağida yer almaktadir: "
+AMPT_0015_I_0001_1,Devam et
+AMPT_0016_I_0001_1,Geri git
+AMPT_0017_I_0001_1,Detonasyon farkindalik testini bitirdiniz!
+enter_p_id,Lütfen size araştirmaci tarafindan verilen katilimci numarasini giriniz.
+results_have_been_saved,Sonuçlariniz kaydedilmiştir.
+you_may_close_browser,Bu sayfayi kapatabilirsiniz.
+demo_intro, "**Detonasyon Farkindalik Testine** hoş geldiniz!\\Bu test performans odaklidir. eğer doğru cevaplar verirseniz, genellikle takip eden duyumsal örnekler daha zorlaşacaktir.\\Genellikle bu adaptif prosedür deney katilimcilarindan gizlenmektedir. Ancak bu demo için,soru zorluğunun ve farkindalik puanlamasinin nasil olduğunu görebilmeniz için her bir soruda bu bilgiler tarafiniza sunulacaktir."
+click_here_to_play,"Çalmak için buraya tiklayiniz"
